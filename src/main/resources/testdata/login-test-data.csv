@@ -1,0 +1,4 @@
+scenario,username,password
+Wrong Password,hoangnguyen,123123
+Empty Password,hoangnguyen,
+Invalid Email Format,hoangnguyen@.com,Abcdef123!
