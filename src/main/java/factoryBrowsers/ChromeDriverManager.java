@@ -9,7 +9,6 @@ public class ChromeDriverManager implements  BrowserFactory{
     public WebDriver getBrowserDriver() {
         ChromeOptions options = new ChromeOptions();
 
-        // Bỏ qua lỗi chứng chỉ HTTPS trong môi trường test
         options.setAcceptInsecureCerts(true);
         return new ChromeDriver(options);
     }
