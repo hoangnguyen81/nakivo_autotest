@@ -11,18 +11,4 @@
             <package name="testcases.loginpage"></package>
         </packages>
     </test>
-
-    <!--    <test verbose="2" preserve-order="true" name="Run on Firefox">-->
-    <!--        <parameter name="browser" value="firefox"></parameter>-->
-    <!--        <packages>-->
-    <!--            <package name="testcases.homepage"></package>-->
-    <!--        </packages>-->
-    <!--    </test>-->
-
-<!--    <test verbose="2" preserve-order="true" name="Run on Edge">-->
-<!--        <parameter name="browser" value="edge"></parameter>-->
-<!--        <packages>-->
-<!--            <package name="testcases.homepage"></package>-->
-<!--        </packages>-->
-<!--    </test>-->
 </suite>
